@@ -1,0 +1,98 @@
+<div id="page">
+	<h1>Faça sua proposta 2</h1>
+	<p>Clique nas abas para saber quais documentos s&atilde;o necess&aacute;rios para pedir seu financiamento, de acordo com o tipo de investimento que sua empresa vai realizar.</p>
+<div class="tabs">
+<div class="tab">                <input id="tab-4" name="tab-group-2" checked="" type="radio" />                <label for="tab-4">Para Ampliar sua Empresa</label>
+<div class="content">
+<h4>FINANCIAMENTO AT&Eacute; R$ 500 MIL</h4>
+<p>Em cada uma das fases de an&aacute;lise de sua proposta, voc&ecirc; encontra uma rela&ccedil;&atilde;o espec&iacute;fica de documentos a serem apresentados.</p>
+<p style="text-align: center;"><img src="http://www.fomento.pr.gov.br/arquivos/Image/ped_ini.png" alt="Documentos para Pedido Inicial" width="95" height="75" /> &nbsp; <img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_cad.png" alt="Documentos para Cadastro" width="95" height="75" />&nbsp; &nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_analise.png" alt="Documentos para Análise de Crédito" width="95" height="74" /> &nbsp; <a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=196" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/be_mpe1.png" alt="Banco do Empreendedor" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=244" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/bndes_aut1.png" alt="BNDES Automático" width="82" height="74" /></a> &nbsp;&nbsp;<a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/SOLICITE__2.png" alt="solicite" width="100" height="73" /></a></p>
+<p><br />
+</p>
+<h4>FINANCIAMENTO ACIMA DE R$ 500 MIL</h4>
+<div>
+<p>Em cada uma das fases de an&aacute;lise de sua proposta, voc&ecirc; encontra uma rela&ccedil;&atilde;o espec&iacute;fica de documentos a serem apresentados.</p>
+<p style="text-align: center;"><img src="http://www.fomento.pr.gov.br/arquivos/Image/ped_ini.png" alt="Documentos para Pedido Inicial" width="95" height="75" />&nbsp;&nbsp;&nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_cad.png" alt="Documentos para Cadastro" width="95" height="75" />&nbsp; &nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_analise.png" alt="Documentos para Análise de Crédito" width="95" height="74" />&nbsp;&nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=244" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/bndes_aut1.png" alt="BNDES Automático" width="82" height="74" /></a>&nbsp; &nbsp;<a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/SOLICITE__2.png" alt="solicite" width="100" height="73" /></a></p>
+</div>
+</div>
+</div>
+<div class="tab">                <input id="tab-5" name="tab-group-2" type="radio" />                <label for="tab-5">Para Equipar sua Empresa</label>
+<div class="content">
+<h4>Financiamento at&eacute; R$ 500 mil</h4>
+<p>Em cada uma das fases de an&aacute;lise de sua proposta, voc&ecirc; encontra uma rela&ccedil;&atilde;o espec&iacute;fica de documentos a serem apresentados.</p>
+<p style="text-align: center;"><img src="http://www.fomento.pr.gov.br/arquivos/Image/ped_ini.png" alt="Documentos para Pedido Inicial" width="95" height="75" />&nbsp;&nbsp;&nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_cad.png" alt="Documentos para Cadastro" width="95" height="75" />&nbsp; &nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_analise.png" alt="Documentos para Análise de Crédito" width="95" height="74" />&nbsp;&nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=196" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/be_mpe1.png" alt="Banco do Empreendedor" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=244" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/bndes_aut1.png" alt="BNDES Automático" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/SOLICITE__2.png" alt="solicite" width="100" height="73" /></a></p>
+<h4>Financiamento acima de R$ 500 mil</h4>
+<div>
+<p>Em cada uma das fases de an&aacute;lise de sua proposta, voc&ecirc; encontra uma rela&ccedil;&atilde;o espec&iacute;fica de documentos a serem apresentados.</p>
+<p style="text-align: center;"><img src="http://www.fomento.pr.gov.br/arquivos/Image/ped_ini.png" alt="Documentos para Pedido Inicial" width="95" height="75" />&nbsp;&nbsp;&nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_cad.png" alt="Documentos para Cadastro" width="95" height="75" />&nbsp; &nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_analise.png" alt="Documentos para Análise de Crédito" width="95" height="74" />&nbsp;&nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=196" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/be_mpe1.png" alt="Banco do Empreendedor" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=244" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/bndes_aut1.png" alt="BNDES Automático" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/SOLICITE__2.png" alt="solicite" width="100" height="73" /></a></p>
+</div>
+</div>
+</div>
+<div class="tab">                <input id="tab-6" name="tab-group-2" type="radio" />                <label for="tab-6">Para Capital de Giro</label>
+<div class="content">
+<h4>Financiamento at&eacute; R$ 500 mil</h4>
+<p>Em cada uma das fases de an&aacute;lise de sua proposta, voc&ecirc; encontra uma rela&ccedil;&atilde;o espec&iacute;fica de documentos a serem apresentados.</p>
+<p style="text-align: center;"><img src="http://www.fomento.pr.gov.br/arquivos/Image/ped_ini.png" alt="Documentos para Pedido Inicial" width="95" height="75" />&nbsp;&nbsp;&nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_cad.png" alt="Documentos para Cadastro" width="95" height="75" />&nbsp; &nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_analise.png" alt="Documentos para Análise de Crédito" width="95" height="74" />&nbsp;&nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=196" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/be_mpe1.png" alt="Banco do Empreendedor" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=244" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/bndes_aut1.png" alt="BNDES Automático" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/SOLICITE__2.png" alt="solicite" width="100" height="73" /></a></p>
+<h4>Financiamento acima de R$ 500 mil</h4>
+<div>
+<p>Em cada uma das fases de an&aacute;lise de sua proposta, voc&ecirc; encontra uma rela&ccedil;&atilde;o espec&iacute;fica de documentos a serem apresentados.</p>
+<p style="text-align: center;"><img src="http://www.fomento.pr.gov.br/arquivos/Image/ped_ini.png" alt="Documentos para Pedido Inicial" width="95" height="75" />&nbsp;&nbsp;&nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_cad.png" alt="Documentos para Cadastro" width="95" height="75" />&nbsp; &nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_analise.png" alt="Documentos para Análise de Crédito" width="95" height="74" />&nbsp;&nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=196" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/be_mpe1.png" alt="Banco do Empreendedor" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=244" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/bndes_aut1.png" alt="BNDES Automático" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/SOLICITE__2.png" alt="solicite" width="100" height="73" /></a></p>
+</div>
+</div>
+</div>
+<div class="tab">                <input id="tab-7" name="tab-group-2" type="radio" />                <label for="tab-7">Para Inova&ccedil;&atilde;o</label>
+<div class="content">
+<h4>Financiamento at&eacute; R$ 500 mil</h4>
+<p>Em cada uma das fases de an&aacute;lise de sua proposta, voc&ecirc; encontra uma rela&ccedil;&atilde;o espec&iacute;fica de documentos a serem apresentados.</p>
+<p>&nbsp; &nbsp; &nbsp;A linha <strong>Invacred Expresso</strong>&nbsp;financia no m&aacute;ximo R$ 150 mil.</p>
+<p>&nbsp; &nbsp; A linha <strong>Inovacred Tradicional</strong> financia valores a partir de R$ 150 mil at&eacute; R$ 3 milh&otilde;es.</p>
+<p style="text-align: center;"><img src="http://www.fomento.pr.gov.br/arquivos/Image/ped_ini.png" alt="Documentos para Pedido Inicial" width="95" height="75" />&nbsp;&nbsp;&nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_cad.png" alt="Documentos para Cadastro" width="95" height="75" />&nbsp; &nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_analise.png" alt="Documentos para Análise de Crédito" width="95" height="74" />&nbsp;&nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=196" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/be_mpe1.png" alt="Banco do Empreendedor" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=244" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/bndes_aut1.png" alt="BNDES Automático" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/SOLICITE__2.png" alt="solicite" width="100" height="73" /></a></p>
+<h4>Financiamento acima de R$ 500 mil</h4>
+<div>
+<p>Em cada uma das fases de an&aacute;lise de sua proposta, voc&ecirc; encontra uma rela&ccedil;&atilde;o espec&iacute;fica de documentos a serem apresentados.</p>
+<p>&nbsp; &nbsp; A linha&nbsp;<strong>Inovacred Tradicional</strong>&nbsp;financia valores a partir de R$ 150 mil at&eacute; R$ 3 milh&otilde;es.</p>
+<p style="text-align: center;"><img src="http://www.fomento.pr.gov.br/arquivos/Image/ped_ini.png" alt="Documentos para Pedido Inicial" width="95" height="75" />&nbsp;&nbsp;&nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_cad.png" alt="Documentos para Cadastro" width="95" height="75" />&nbsp; &nbsp;<img src="http://www.fomento.pr.gov.br/arquivos/Image/doc_analise.png" alt="Documentos para Análise de Crédito" width="95" height="74" />&nbsp;&nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=196" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/be_mpe1.png" alt="Banco do Empreendedor" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://www.fomento.pr.gov.br/modules/conteudo/conteudo.php?conteudo=244" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/bndes_aut1.png" alt="BNDES Automático" width="82" height="74" /></a>&nbsp; &nbsp;&nbsp;<a href="http://fomentonet.pr.gov.br/fomentonet/loginExt.do?action=loadLogin" target="_blank"><img src="http://www.fomento.pr.gov.br/arquivos/Image/SOLICITE__2.png" alt="solicite" width="100" height="73" /></a></p>
+</div>
+</div>
+</div>
+</div>
+<link rel="stylesheet" href="css/style.css" /><style type="text/css">
+    .tabs {
+      position: relative;   
+      min-height: 400px; /* This part sucks */
+      clear: both;
+      margin: 25px 0;
+    }
+    .tab {
+      float: left;
+    }
+    .tab label {
+      background: #eee; 
+      padding: 10px; 
+      border: 1px solid #ccc; 
+      margin-left: -1px; 
+      position: relative;
+      left: 1px; 
+    }
+    .tab [type=radio] {
+      display: none;   
+    }
+    .content {
+      position: absolute;
+      top: 28px;
+      left: 0;
+      background: white;
+      right: 0;
+      bottom: 0;
+      padding: 20px;
+      border: 1px solid #ccc; 
+    }
+    [type=radio]:checked ~ label {
+      background: white;
+      border-bottom: 1px solid white;
+      z-index: 2;
+    }
+    [type=radio]:checked ~ label ~ .content {
+      z-index: 1;
+    }
+	</style>
